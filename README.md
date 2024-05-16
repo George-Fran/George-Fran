@@ -82,7 +82,7 @@ Geogz.JS</a></h1>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,postgres,pug,express,firebase,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,ts,vscode,arch&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,postgres,pug,express,firebase,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,ts,vscode,arch,django,vercel,kotlin&perline=14" />
   </a>
 </p>
 
