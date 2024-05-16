@@ -21,3 +21,8 @@ Geogz.JS</a></h1>
 
 - 🏠 Do you need my code? It's free and my English is bad.
 <br/>
+
+### Spotify Playing 🎧
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/rjd2h7c2t69fzee2ls36x4ffj)
+
+---
