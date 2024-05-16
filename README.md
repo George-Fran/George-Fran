@@ -116,7 +116,7 @@ Geogz.JS</a></h1>
 
 -----
 
-<h2 align="center">🐍 &nbsp;That's How Commits move ... </h2>
+<h2 align="center">🐍 &nbsp;This is the way my commits move...</h2>
 <div align="center">
   <a href="https://github.com/Adityakanoi2001/">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
