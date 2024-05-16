@@ -72,7 +72,20 @@ Geogz.JS</a></h1>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=George-Fran&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
----
+
+------
+<br>
+
+
+<!--h2 without bottom border-->
+<h2 align="center">🐙 SKILLS 🐙</h2>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,postgres,pug,express,firebase,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,ts,vscode,arch&perline=14" />
+  </a>
+</p>
+
 
 <!--Contact Section--> 
 
@@ -94,6 +107,7 @@ Geogz.JS</a></h1>
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
 </a>
 </div>
+
 
 <!--Footer--> 
 <p align="center">
