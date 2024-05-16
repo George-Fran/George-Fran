@@ -24,6 +24,22 @@ Geogz.JS</a></h1>
 
 ------
 
+<!--h2 without bottom border-->
+<h2 align="center">🐙 SKILLS 🐙</h2>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,postgres,pug,express,firebase,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,ts,vscode,arch,django,vercel,kotlin&perline=14" />
+  </a>
+</p>
+
+<br>
+
+------
+
+
+<br>
+
 <!--Github stats Table--> 
 <h2 align="center">📊 GITHUB STATS 📊</h2>
 <table width="100%">
@@ -72,38 +88,27 @@ Geogz.JS</a></h1>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=George-Fran&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
-
-------
 <br>
 
-
-<!--h2 without bottom border-->
-<h2 align="center">🐙 SKILLS 🐙</h2>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,postgres,pug,express,firebase,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,ts,vscode,arch,django,vercel,kotlin&perline=14" />
-  </a>
-</p>
-
+-----
 
 <!--Contact Section--> 
 
 <h2 align="center">🤝 CONNECT WITH ME 🤝 </h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+ <a href="https://www.linkedin.com/in/george-franco-gutierrez-valencia-7b3765258/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
+<a href="mailto:francogutierrez121@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
+<a href="https://www.instagram.com/geogz.dev" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://twitter.com/kiran__a__n" target="_blank">
+<a href="https://twitter.com/Geogz_" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
 </a>
 </div>
@@ -114,10 +119,3 @@ Geogz.JS</a></h1>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
-------
-
-
-### Spotify Playing 🎧
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/rjd2h7c2t69fzee2ls36x4ffj)
-
----
