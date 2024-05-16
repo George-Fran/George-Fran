@@ -4,7 +4,7 @@ Geogz.JS</a></h1>
 
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://camo.githubusercontent.com/e5b0dc34edf0960e8d3f6eaaf80c652e478f8590e7377d5bb10d44441d4075cd/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323034382f312a4f6f687157354447683943515334684c593546587a412e706e67">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif">
 </a>
 
 - 🔭 Hello there, my name is George Franco.
