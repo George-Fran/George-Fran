@@ -24,9 +24,9 @@ Geogz.JS</a></h1>
 
 ------
 
-<!--h2 without bottom border-->
+
 <h2 align="center">🐙 SKILLS 🐙</h2>
-<!--tech stack icons-->
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,css,discord,postgres,pug,express,firebase,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,ts,vscode,arch,django,vercel,kotlin&perline=14" />
@@ -40,7 +40,7 @@ Geogz.JS</a></h1>
 
 <br>
 
-<!--Github stats Table--> 
+
 <h2 align="center">📊 GITHUB STATS 📊</h2>
 <table width="100%">
   <tr>
@@ -82,7 +82,7 @@ Geogz.JS</a></h1>
 </table>
 <br />
 
-<!--Contribution Graph-->
+
 <h2 align="center">📈 CONTRIBUTION GRAPH 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=George-Fran&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
@@ -92,7 +92,7 @@ Geogz.JS</a></h1>
 
 -----
 
-<!--Contact Section--> 
+
 
 <h2 align="center">🤝 CONNECT WITH ME 🤝 </h2>
 <div align="center">
