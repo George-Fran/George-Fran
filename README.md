@@ -29,7 +29,7 @@ Geogz.JS</a></h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,postgres,pug,express,firebase,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,ts,vscode,arch,django,vercel,kotlin&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,postgres,pug,express,firebase,github,html,java,js,linux,md,materialui,vim,mongodb,mysql,nextjs,nodejs,postman,py,ts,vscode,arch,django,vercel,kotlin&perline=14" />
   </a>
 </p>
 
@@ -116,7 +116,7 @@ Geogz.JS</a></h1>
 
 -----
 
-<h2 align="center">🐍 &nbsp;This is the way my commits move...</h2>
+<h2 align="center">🐍 &nbsp;Watch my snake</h2>
 <div align="center">
   <a href="https://github.com/Adityakanoi2001/">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
