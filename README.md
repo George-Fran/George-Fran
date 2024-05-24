@@ -65,8 +65,8 @@ Geogz.JS</a></h1>
     <td width="50%">
       <h3 align="center"><strong>LATEST PROJECT</strong></h3>
       <p align="center">
-        <a href="https://github.com/George-Fran/Simple-navigation-bar">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=George-Fran&repo=simple-navigation-bar&theme=nightowl&show_owner=true" alt="Simple navigation Bar" />
+        <a href="https://github.com/George-Fran/navigation-bar">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=George-Fran&repo=navigation-bar&theme=nightowl&show_owner=true" alt="Simple navigation Bar" />
         </a>
       </p>
     </td>
