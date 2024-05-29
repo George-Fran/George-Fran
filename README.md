@@ -9,7 +9,7 @@ Geogz.JS</a></h1>
 
 - 🔭 Hello there, my name is George Franco.
 
-- 🌱 I’m 19 years old.
+- 🌱 I’m 20 years old.
 
 - ☁️ I am a software designer and developer.
 
