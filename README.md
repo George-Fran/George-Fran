@@ -66,7 +66,7 @@ Geogz.JS</a></h1>
       <h3 align="center"><strong>LATEST PROJECT</strong></h3>
       <p align="center">
         <a href="https://github.com/George-Fran/advice-generator">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=George-Fran&repo=advice-generator&theme=nightowl&show_owner=true" alt="advice-generator" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=George-Fran&repo=advice-generator&theme=nightowl&show_owner=true" alt="advice-generator RE" />
         </a>
       </p>
     </td>
